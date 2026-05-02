@@ -47,3 +47,17 @@ lib/
 - macOS
 - Linux
 - Windows
+
+## Screenshots
+
+### Authentication Screens
+
+![Login Screen](screenshots/login_screen.png)
+![Register Screen](screenshots/registration_screen.png)
+
+### Task Management Screens
+
+![Home Screen](screenshots/task_dashboard.png)
+![Task Form Screen](screenshots/create_new_task.png)
+![Delete Task Screen](screenshots/delete_task.png)
+![Edit Task Screen](screenshots/edit_task.png)
