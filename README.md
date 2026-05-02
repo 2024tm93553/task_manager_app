@@ -52,12 +52,16 @@ lib/
 
 ### Authentication Screens
 
-![Login Screen](screenshots/login_screen.png)
-![Register Screen](screenshots/registration_screen.png)
+<p>
+  <img src="screenshots/login_screen.png" width="250" alt="Login Screen">
+  <img src="screenshots/registration_screen.png" width="250" alt="Register Screen">
+</p>
 
 ### Task Management Screens
 
-![Home Screen](screenshots/task_dashboard.png)
-![Task Form Screen](screenshots/create_new_task.png)
-![Delete Task Screen](screenshots/delete_task.png)
-![Edit Task Screen](screenshots/edit_task.png)
+<p>
+  <img src="screenshots/task_dashboard.png" width="250" alt="Home Screen">
+  <img src="screenshots/create_new_task.png" width="250" alt="Task Form Screen">
+  <img src="screenshots/delete_task.png" width="250" alt="Delete Task Screen">
+  <img src="screenshots/edit_task.png" width="250" alt="Edit Task Screen">
+</p>
